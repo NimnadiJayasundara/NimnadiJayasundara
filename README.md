@@ -14,7 +14,7 @@
 ### 🛠 About Me:
 - 💻 I am a self-taught Full Stack Developer and Graphic Designer.
 - 🌟 Get to know about me [https://hansinimnadi.vercel.app/](https://hansinimnadi.vercel.app/)
-- 📫 How to reach me: **nimnadihansijm@gmail.com**
+- 📫 How to reach me: **nimnadijayasundara12@gmail.com**
 - 🤔 I’m currently open for : **Internships** ... Check out [MY RESUME](https://drive.google.com/file/d/1o8f2Vbw2tiJwtAuMqpIgGcOjliwYAi5L/view?usp=drive_link).
 
 <h3 align="center">Connect with me</h3>
