@@ -1,7 +1,7 @@
 <h2 align="center">Hi 🤗, I'm Hansi Nimnadi Jayasundara</h2>
 <p align="center">
 	<a href="https://github.com/NimnadiJayasundara">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;Full+Stack+Web+Developer;Graphic+Designer%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=IT+Graduate+from+University+of+Moratuwa;Software+Engineer;Quality+Engineer%20;DevOps+Engineer;%20AI%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -12,10 +12,10 @@
 
 
 ### 🛠 About Me:
-- 💻 I am a self-taught Full Stack Developer and Graphic Designer.
+- 💻 I am a self-taught Full Stack Developer and Quality Tester.
 - 🌟 Get to know about me [https://hansinimnadi.vercel.app/](https://hansinimnadi.vercel.app/)
-- 📫 How to reach me: **nimnadijayasundara12@gmail.com**
-- 🤔 I’m currently open for : **Internships** ... Check out [MY RESUME](https://drive.google.com/file/d/1o8f2Vbw2tiJwtAuMqpIgGcOjliwYAi5L/view?usp=drive_link).
+- 📫 How to reach me: **contact.hansinimnadi@gmail.com**
+- 🤔 I’m currently open for : **Software Engineering (SE), Quality Engineering (QE), and DevOps** ... Check out [MY RESUME](https://drive.google.com/file/d/1lG1sKy9h8olQLKUGdyRse0zDFtRmhfCU/view?usp=drive_link).
 
 <h3 align="center">Connect with me</h3>
 </br>
@@ -61,7 +61,7 @@
 </br>
 
 <!-- development tools -->
-<div align="center" width="100">
+<!-- <div align="center" width="100">
   <h1>Stack</h1>
   </br>
   <h3>Languages</h3>
@@ -146,7 +146,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- Testing tools -->
-</br>
+<!-- </br>
 <h3>Testing</h3>
 <a href="https://www.cypress.io/" target="_blank">
     <img
@@ -158,10 +158,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jestjs.io" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-	</a>
+	</a> -->
 
 <!-- Designing tools -->
-</br>
+<!-- </br>
 <h3>Designing</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.blender.org/" target="_blank">
@@ -209,7 +209,72 @@
 </br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=nimnadijayasundara&label=Profile%20views&color=0e75b6&style=flat" alt="nimnadijayasundara" /> 
+</p> --> -->
+
+
+<div align="center" width="100">
+
+# 🛠️ Tech Stack & Skills
+
+###  Languages & Web Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind CSS"/>
+
+###  Testing & Test Automation
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="45" alt="Selenium"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="45" alt="Cypress"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="45" alt="Playwright"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="45" alt="Jest"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" width="45" alt="Appium"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" alt="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" alt="Swagger"/>
+
+**Manual Testing · BDD Testing · Katalon Studio · Apache JMeter**
+
+###  Databases & Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="50" alt="Redis"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="50" alt="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" alt="MS SQL Server"/>
+
+###  DevOps, Cloud & Version Control
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" alt="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="50" alt="GitLab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" alt="Microsoft Azure"/>
+
+**Sourcetree · Jira · SonarQube**
+
+###  UI/UX & Design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" alt="Adobe Photoshop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="50" alt="GIMP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" alt="Blender"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50" alt="Unity"/>
+
+###  Development Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" alt="Visual Studio Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" alt="Visual Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" alt="IntelliJ IDEA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="45" alt="npm"/>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nimnadijayasundara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
